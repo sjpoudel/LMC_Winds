@@ -1,1 +1,7 @@
-It contains non-normalized fluxes and position of the fitted continuum for key transitions used in our work.
+This folder contains figures showing the local continuum fits explored for the UV absorption-line transitions in each stellar sightline. For each transition, the observed flux and flux uncertainty are shown together with the adopted polynomial continuum fit. The spectral regions included and excluded during the continuum fitting are also indicated in each figure.
+
+These figures are provided to document the continuum-placement procedure and to allow visual inspection of the adopted local continua. The folder includes the continuum fits examined for the available ions and transitions; however, not all transitions shown here were subsequently used for Voigt-profile fitting or in the scientific analysis. Some transitions were excluded because their continuum placement or absorption measurements were considered unreliable, for example due to complex stellar features, blending, saturation, low signal-to-noise, or other spectral artifacts.
+
+The final set of sightlines, ions, and transitions adopted for the Voigt-profile fitting and subsequent analysis can be found in the Voigt_Fit_Figures folder. Therefore, the presence of a continuum-fit figure in this folder should not by itself be interpreted as indicating that the corresponding transition was included in the final analysis.
+
+These continuum figures are provided primarily for transparency and to illustrate the continuum fits considered during the analysis
