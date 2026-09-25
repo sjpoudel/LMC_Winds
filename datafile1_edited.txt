@@ -1,0 +1,197 @@
+Title: Tracing Winds through the Fog: A Comprehensive Survey of LMC's Galactic 
+       Outflows with ULLYSES
+Authors: Poudel S., Horton A., Barger K.A., Cashman F.H., Vazquez J., Fox A.J., 
+    Lehner N., Howk J.C., Lucchini S., Krishnarao D., Catalano S., Ripley A., 
+    Yuan W., Van Tol N., Alcala C., Elliott J., McClure-Griffiths N.M., 
+    D'Onghia E., Tumlinson J., Tuli A.G., van Loon J.T., Roman-Duval J., 
+    Ma Y.K., Lynn C.
+Table: Properties of 170 ULLYSES DR7 Stellar Sightlines in the LMC Disk
+================================================================================
+Byte-by-byte Description of file: datafile1.txt
+--------------------------------------------------------------------------------
+   Bytes Format Units Label   Explanations
+--------------------------------------------------------------------------------
+   1- 15 A15    ---   Target  ULYSSES Stellar Sightline in the LMC disk
+  17- 19 A3     ---   Model   Specific sightlines modeled with CLOUDY; Section 5; Table 3
+  21- 26 F6.2   deg   GLON    Galactic longitude of sightline
+  28- 33 F6.2   deg   GLAT    Galactic latitude of sightline
+  35- 53 A19    ---   Type    Stellar Spectral Type with features
+  55- 77 A23    ---   Modes   UV Observing modes (1)
+--------------------------------------------------------------------------------
+Note (1): E140M and E230M are gratings associated with the HST/STIS with
+    instrumental resolutions of FWHM_res ~ 6.5 km/s (R~45800) and
+    FWHM_res ~ 10 km/s (R~30000), respectively. G130M and G160M are
+    gratings associated with the HST/COS with instrumental resolution of
+    FWHM_res ~ 16.5 km/s (R ~ 18000$. FUSE has a resolution of FWHM_res
+    ~ 20 km/s (R ~ 15000).
+--------------------------------------------------------------------------------
+SK-65d47            275.44 -33.85 O4 I(n)f+p          E140M;FUSE              
+SK-65d55            275.85 -33.69 WN6 h               E140M;FUSE              
+LMCE169-1           275.93 -33.74 WN3/O3              G160M                   
+SK-66d152           276.05 -32.4  O7 Ib(f)            E140M;G130M             
+SK-65d2             276.11 -36.28 B1 V                E140M;FUSE              
+SK-66d172           276.27 -32.1  O2 III(f*) + OB     E140M;E230M;FUSE        
+LMCX-4              276.33 -32.53 O8 III              E140M;FUSE              
+SK-65d22        C1  276.4  -35.75 O6 Iaf+             E140M;E230M;FUSE        
+SK-66d97            276.41 -33.08 sgB[e]              E140M;FUSE              
+LMCE159-1           276.54 -33.3  WN3/O3              G160M                   
+SK-66d171           276.61 -32.08 O9 Ia               E140M;E230M;FUSE        
+SK-66d18            276.69 -36.25 O6 V((f))           E140M;FUSE              
+NGC1818-ROB-D1      276.96 -35.31 B1 V                G130M;G160M             
+SK-67d216           277.04 -32.18 B0.5 V              E140M;FUSE              
+SK-66d21            277.06 -36.15 WC4                 G130M;G160M             
+SK-66d100           277.06 -32.96 O6 II(f)            E140M;FUSE              
+N11-ELS-026         277.09 -36.08 O2.5 III(f*)        E140M;G130M             
+N11-ELS-051         277.13 -36.11 O5 Vn((f))          G130M;G160M             
+SK-67d261           277.15 -31.24 O8.5 III            E140M;G130M             
+N11-ELS-032     C2  277.17 -36.06 O7 II(f)            FUSE;G130M;G160M        
+N11-ELS-013         277.17 -36.04 O8 V                E140M;E230M;FUSE        
+N11-ELS-048         277.18 -36.05 O6.5 V((f))         E140M                   
+N11-ELS-018         277.19 -36.08 O6 II(f+)           FUSE;G130M;G160M        
+N11-ELS-060         277.19 -36.07 O3 V((f*))          G130M;G160M             
+PGMW-3120           277.19 -36.07 O5.5 V((f*))        E140M;E230M             
+PGMW-3070           277.2  -36.07 O6 V                E140M;FUSE              
+N11-ELS-038         277.2  -36.07 O5 III(f+)          G130M;G160M             
+N11-ELS-031         277.2  -36.07 ON2 III(f*)         G130M;G160M             
+SK-67d195           277.22 -32.34 B6 I                E230M;G130M;G160M       
+SK-67d266           277.22 -31.17 WN11h               E140M;FUSE              
+SK-66d19            277.22 -36.15 O7 V                E230M;G130M;G160M       
+BI-272          C3  277.24 -31.32 O7 II               E140M;FUSE              
+BAT99-10            277.27 -36.07 WC4                 E140M                   
+N11-ELS-049         277.27 -36.08 O7.5 V              E140M;G130M             
+N11-ELS-033         277.28 -36.11 B0 IIIn             G130M;G160M             
+SK-66d17            277.29 -36.13 OC9.5 II            G130M;G160M             
+PGMW-1363           277.29 -36.05 O8.5 Iaf            E140M                   
+N11-ELS-020         277.31 -36.03 O5 Inf+p            E140M;G130M             
+SK-66d51            277.32 -35.39 WN 7h               E140M;FUSE              
+N11-ELS-046         277.38 -36.03 O9.5 V              E140M;G130M             
+SK-66d35            277.38 -35.99 BC1 Ia              E140M;E230M;FUSE        
+SK-67d105           277.39 -33.08 O4 f + O6 V         E140M;E230M;FUSE        
+NGC2004-ELS-003     277.42 -32.63 B5 Ia               E230M;G130M;G160M       
+SK-67d207           277.46 -32.22 B9 Ia               E230M;G130M;G160M       
+NGC2004-ELS-026     277.46 -32.64 B2 II               FUSE;G130M;G160M        
+SK-67d118           277.5  -32.93 O7 V                E140M;FUSE              
+SK-67d69            277.57 -34.22 O4 III(f)           E140M;FUSE              
+SK-67d144           277.63 -32.66 WC4                 FUSE;G130M;G160M        
+SK-67d78            277.64 -33.62 B3 Ia               E230M;FUSE;G130M;G160M  
+SK-66d50            277.65 -35.32 B8 Ia+              E230M;G130M;G160M       
+SK-67d191       C4  277.66 -32.33 O8 V                E140M;E230M;FUSE        
+SK-67d197           277.69 -32.29 B7 I                E230M;G130M;G160M       
+SK-67d211           277.7  -32.16 O2 III(f*)          E140M;E230M;FUSE        
+SK-67d111           277.75 -32.97 O6 Ia(n)fpv         E140M;FUSE              
+SK-67d107           277.76 -33.01 O9 Ib(f)            E140M;FUSE              
+SK-67d168           277.76 -32.48 O8 I(f)p            E140M;FUSE              
+SK-67d106           277.77 -33.02 O8 III((f))         E140M;FUSE              
+SK-67d104       C5  277.77 -33.04 WC4 + abs           E140M;FUSE              
+SK-67d101           277.78 -33.05 O8 II((f))          E140M;E230M;FUSE        
+BI-237              277.8  -32.06 O2 V((f*))          E230M;FUSE;G130M;G160M  
+SK-67d166           277.84 -32.49 O4 If+              E140M;FUSE              
+SK-67d167           277.87 -32.47 O4 Inf+             E140M;FUSE              
+SK-67d108           277.91 -32.99 O4-5 III            E140M;FUSE              
+LH-114-7            277.96 -31.38 O2 III(f*) + OB?    E140M;FUSE              
+SK-67d14            278.27 -36.05 B1.5 Ia             E140M;E230M;FUSE        
+SK-67d2             278.36 -36.79 B1 Ia+ (N wk)       E140M;E230M;FUSE        
+SK-68d73            278.45 -33.24 WN9pec              E230M;FUSE;G130M;G160M  
+SK-67d20            278.52 -35.89 WN4 b               E140M;FUSE              
+SK-67d22            278.64 -35.67 O2 If*/WN5          E140M;FUSE              
+LMC277-2            278.86 -34.93 WN3/O3              G160M                   
+SK-67d5             278.89 -36.32 O9.7 Ib             E140M;E230M;FUSE        
+SK-68d112           279.0  -32.41 O7.5(n)(f)p         E140M                   
+SK-68d41            279.02 -34.82 B0.5 Ia             E140M;E230M;FUSE        
+SK-68d23A           279.07 -35.25 B1 III              G130M;G160M             
+SK-68d133           279.1  -31.86 OC3.5 III(f*)       G130M;G160M             
+SK-68d26            279.14 -35.17 BC2 Ia              E230M;FUSE;G130M;G160M  
+SK-68d137           279.21 -31.72 O2 III(f*)          FUSE;G130M;G160M        
+SK-68d155           279.24 -31.31 B0.5 I              E230M;FUSE;G130M;G160M  
+BI-13               279.26 -35.95 O6.5 V              E140M;FUSE              
+SK-68d135           279.26 -31.77 ON9.7 Ia+           E140M;E230M;FUSE        
+SK-68d140           279.28 -31.67 B0.7 Ib-Iab Nwk     E230M;FUSE;G130M;G160M  
+VFTS-355            279.3  -31.71 O4 V((n))((fc))z    G130M;G160M             
+LH-58-496           279.3  -32.78 O5 V((f))           E140M;G130M             
+SK-68d129           279.33 -31.89 B1 I                E230M;FUSE;G130M;G160M  
+SK-68d80        C6  279.34 -32.79 WC4 + O6 III/V      E140M;FUSE              
+VFTS-72             279.38 -31.78 O2 V-III(n)((f*))   E230M;FUSE;G130M;G160M  
+SK-69d246           279.38 -31.66 WN5/6h + WN6/7h     E140M;E230M;FUSE        
+SK-68d52            279.4  -34.56 B0 Ia               E140M;E230M;FUSE        
+VFTS-586            279.4  -31.67 O4 V((n))((fc))z    G130M;G160M             
+VFTS-406            279.43 -31.69 O6 Vnn              G130M;G160M             
+VFTS-507            279.45 -31.67 WN6                 E140M                   
+VFTS-506            279.45 -31.67 ON2 V((n))((f*))    G130M;G160M             
+VFTS-66             279.45 -31.78 O9 V + B0.2 V       G130M;G160M             
+VFTS-440            279.45 -31.68 O6-6.5 II(f)        E140M                   
+SK-69d235           279.46 -31.75 WC4 + B1 Ia         G130M;G160M             
+VFTS-542            279.46 -31.67 O2 If*/WN5 + B0 V   G130M;G160M             
+BAT99-105           279.46 -31.67 O2 If*              E140M;FUSE              
+VFTS-482            279.46 -31.68 O2.5 If*/WN6        G130M;G160M             
+VFTS-545            279.47 -31.67 O2 If*/WN5          G130M;G160M             
+VFTS-244            279.47 -31.72 O5 III(n)(fc)       E140M;G130M;G160M       
+VFTS-267            279.5  -31.71 O3 III-I(n)f*       G130M;G160M             
+VFTS-87             279.51 -31.77 O9.7 Ib-II          E140M                   
+SK-68d16            279.53 -35.45 O7 III              E140M;FUSE              
+SK-68d15        C7  279.53 -35.47 WC4                 E140M;FUSE              
+VFTS-404            279.54 -31.68 O3.5 V(n)((fc))     G130M;G160M             
+VFTS-180            279.55 -31.74 O3 If*              E140M;G130M;G160M       
+SK-69d175       C8  279.56 -32.32 WN 11h              E140M;E230M;FUSE        
+VFTS-169            279.56 -31.74 O2.5 V(n)((f*))     G130M;G160M             
+VFTS-352            279.57 -31.68 O4.5 V(n)           G130M;G160M             
+SK-69d224           279.6  -31.82 B1 Ia+              FUSE;G130M;G160M        
+SK-69d212           279.61 -31.89 O5n(f)p             E140M;G130M             
+VFTS-190            279.61 -31.73 O7 Vnn((f))p        G130M;G160M             
+LMC199-1            279.62 -32.58 WN3/O3 V            G160M                   
+SK-69d234           279.64 -31.74 WC4                 G130M;G160M             
+LMCE078-1           279.65 -31.76 O6 Ifc              G130M;G160M             
+BI-173          C9  279.67 -32.69 O8 II:              E140M;E230M;FUSE        
+SK-69d140           279.75 -32.63 B4 I                E230M;G130M;G160M       
+SK-69d231           279.77 -31.75 WC4                 G130M;G160M             
+HV-5622             279.79 -34.28 B0 V                FUSE;G130M;G160M        
+BAT99-127           279.8  -31.51 WC4 + O             E140M                   
+SK-69d255           279.81 -31.53 WC4 (+OB)           G130M;G160M             
+LMC172-1            279.81 -31.97 WN3/O3 V            G160M                   
+ST92-4-18           279.81 -31.54 O5 If               G130M;G160M             
+UCAC3-42-33014      279.83 -31.5  O7.5n(f)p           G130M;G160M             
+UCAC3-42-30814      279.84 -31.89 O6(f)np             G130M;G160M             
+LMC170-2            279.86 -32.47 WN3/O3 V            G160M                   
+SK-69d222           279.88 -31.79 WC4 (+OB)           E140M                   
+BI-214              279.9  -32.04 O6.5(n)(f)p         E140M                   
+Hd-269927C          279.91 -31.6  WN9h                E140M;FUSE              
+SK-69d104           279.92 -33.39 O6 Ib(f)            E140M;E230M;FUSE        
+ST92-5-27           279.93 -31.58 O3 V((f))           G130M;G160M             
+ST92-5-31           279.94 -31.58 O2-3(n)f*p          G130M;G160M                         
+SK-69d279           280.0  -31.35 O9.2 Iaf            E230M;FUSE;G130M;G160M  
+SK-68d8             280.02 -35.71 B5 Ia+              E230M;G130M;G160M;G430L
+SK-69d178           280.09 -32.21 O9.2 II             G130M;G160M             
+FARINA-88           280.09 -31.48 O4 III(f)           G130M;G160M             
+BI-265              280.11 -31.49 O5 III(fc)          E140M;G130M             
+GAIA-DR3-4657       280.2  -31.87 O3 If*              G130M;G160M             
+W61-28-5            280.26 -31.96 O4 V((f+))          G130M;G160M             
+SK-69d191           280.28 -31.97 WC4                 E140M;FUSE              
+W61-28-23           280.3  -31.92 O3.5 V((f+))        G130M;G160M             
+SK-69d83            280.35 -33.72 O7.5 Iaf            E140M;G130M             
+SK-69d106           280.43 -33.27 WC4 + O5-6III-V + O E140M;FUSE              
+SK-70d115           280.49 -30.7  O6 If               E140M;E230M;FUSE        
+SK-69d43            280.58 -35.33 B0.5 Ia             E140M;E230M;FUSE        
+SK-69d50        C10 280.64 -35.22 O7(n)(f)p           E140M;FUSE              
+SK-69d42            280.81 -35.29 WC4                 G130M;G160M             
+LMCE055-1           280.97 -35.18 WN4 /O4             G130M;G160M             
+SK-69d52            281.24 -35.02 B2 Ia               E230M;FUSE;G130M;G160M  
+SK-70d60            281.49 -34.35 O4-5 V((f))pec      E140M;FUSE              
+SK-70d13        C11 281.51 -35.29 O9 V                E140M;FUSE              
+SK-70d16            281.53 -35.2  B4 I                G130M;G160M             
+SK-70d32        C12 281.54 -34.73 O9.5 II:            E140M;FUSE              
+N206-FS-170         281.59 -32.08 B1 IV               G130M;G160M             
+SK-70d69            281.68 -34.25 O5.5 V((f))         E140M;FUSE              
+SK-70d79            281.71 -34.13 B0 III              E140M;E230M;FUSE        
+LMC079-1            281.77 -34.06 WN3/O3 V            G160M                   
+SK-71d38            281.83 -32.08 WC4 + OB            FUSE;G130M;G160M        
+BI-184              281.84 -32.09 O8 (V)e             E230M;FUSE;G130M;G160M  
+SK-71d46            281.84 -31.98 O4 If               FUSE;G130M;G160M        
+BI-189              281.86 -32.05 O8 IV((f))e         G130M;G160M             
+SK-71d45        C13 281.86 -32.02 O4-5 III(f)         E140M;E230M;FUSE;G130M  
+N206-FS-194         281.86 -32.01 O8.5 V              G130M;G160M             
+SK-71d41            281.9  -32.07 O9.7 Iab            E140M;FUSE              
+SK-71d35            281.96 -32.11 B1 II               G130M;G160M             
+SK-71d50            282.21 -31.21 O6.5 III            E140M;E230M;FUSE        
+SK-71d26            282.33 -32.61 WC4 + abs           FUSE;G130M;G160M        
+SK-71d19            282.36 -32.68 O6 III              FUSE;G130M;G160M        
+SK-71d8             282.51 -33.88 O9 II               E140M;FUSE              
+SK-71d21            282.64 -32.62 WN6(h)              E140M;FUSE              
